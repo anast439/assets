@@ -1,0 +1,1512 @@
+{
+  "Television": [
+    {
+      "questionText": "Which TV show holds the record for the longest running scripted prime time series?",
+      "options": ["The Simpsons", "Gunsmoke", "Doctor Who", "ER"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which series features the character Walter White?",
+      "options": ["Breaking Bad", "The Sopranos", "Mad Men", "Better Call Saul"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Who hosted the game show 'Jeopardy!' for over 30 years?",
+      "options": ["Alex Trebek", "Bob Barker", "Vanna White", "Steve Harvey"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which reality TV show is known for the phrase 'You're fired'?",
+      "options": ["The Apprentice", "Shark Tank", "Survivor", "Big Brother"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which television series is set in the fictional town of Springfield?",
+      "options": ["Family Guy", "The Simpsons", "Futurama", "American Dad"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the name of the coffee shop in the TV show 'Friends'?",
+      "options": ["Central Perk", "Coffee Central", "Java House", "The Daily Grind"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which TV drama series is based on a high school glee club?",
+      "options": ["Glee", "Fame", "High School Musical", "Hannah Montana"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which animated series features the characters Peter, Lois, and their dog Brian?",
+      "options": ["Family Guy", "American Dad", "The Simpsons", "Futurama"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "In which TV show does the character Sheldon Cooper appear?",
+      "options": ["The Big Bang Theory", "How I Met Your Mother", "Friends", "Modern Family"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which show is known for its iconic opening theme 'I'll Be There for You'?",
+      "options": ["Friends", "Seinfeld", "The Office", "Parks and Recreation"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which TV series is set in the fictional town of Mystic Falls?",
+      "options": ["The Vampire Diaries", "Supernatural", "Buffy the Vampire Slayer", "True Blood"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which show features contestants dancing and being judged by Len Goodman and Bruno Tonioli?",
+      "options": ["So You Think You Can Dance", "Dancing with the Stars", "America's Got Talent", "World of Dance"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which animated series follows a yellow family living in the town of Springfield?",
+      "options": ["Family Guy", "The Simpsons", "South Park", "Futurama"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which TV show features a high-stakes cooking competition hosted by Gordon Ramsay?",
+      "options": ["MasterChef", "Hell's Kitchen", "Top Chef", "Chopped"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which long-running soap opera is set in the fictional town of Port Charles?",
+      "options": ["General Hospital", "Days of Our Lives", "The Young and the Restless", "All My Children"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which series is centered on a group of friends living in New York City?",
+      "options": ["Friends", "Seinfeld", "How I Met Your Mother", "The Big Bang Theory"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which TV series features the Dunder Mifflin paper company?",
+      "options": ["The Office", "Parks and Recreation", "30 Rock", "Silicon Valley"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which series popularized the 'mockumentary' style of filming?",
+      "options": ["The Office", "Modern Family", "Parks and Recreation", "All of the above"],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": "Which TV series is known for the character Don Draper?",
+      "options": ["Mad Men", "Breaking Bad", "The Sopranos", "Boardwalk Empire"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which show features a high school chemistry teacher turned methamphetamine manufacturer?",
+      "options": ["Breaking Bad", "Ozark", "Better Call Saul", "Weeds"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which animated series is known for its surreal humor and cutaway gags?",
+      "options": ["Family Guy", "The Simpsons", "South Park", "Rick and Morty"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which TV show features a character named Tony Soprano?",
+      "options": ["The Sopranos", "The Wire", "Breaking Bad", "Boardwalk Empire"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which series is set in a post-apocalyptic world overrun by zombies?",
+      "options": ["The Walking Dead", "Fear the Walking Dead", "Z Nation", "iZombie"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which television show is centered around a newsroom in Baltimore?",
+      "options": ["The Wire", "NewsRadio", "The Newsroom", "Broadcast News"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which TV drama is about a lawyer working in a prestigious New York firm?",
+      "options": ["Suits", "The Good Wife", "How to Get Away with Murder", "Boston Legal"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which comedy series features an office setting with eccentric characters?",
+      "options": ["The Office", "Parks and Recreation", "Brooklyn Nine-Nine", "30 Rock"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which television series follows the lives of the Kardashian-Jenner family?",
+      "options": ["Keeping Up with the Kardashians", "The Simple Life", "Laguna Beach", "The Hills"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which show is known for its iconic red phone booth that teleports people?",
+      "options": ["Doctor Who", "Quantum Leap", "Stargate SG-1", "Fringe"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which series is set in the fictional county of Pawnee, Indiana?",
+      "options": ["Parks and Recreation", "The Office", "Community", "Scrubs"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which reality TV show features families competing in challenges on an island?",
+      "options": ["Survivor", "Big Brother", "The Amazing Race", "Love Island"],
+      "correctOptionIndex": 0
+    }
+  ],
+  "Nature": [
+    {
+      "questionText": "What is the process by which plants make their own food using sunlight?",
+      "options": ["Photosynthesis", "Respiration", "Transpiration", "Germination"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the tallest type of tree in the world?",
+      "options": ["Oak", "Redwood", "Pine", "Birch"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which biome is characterized by low temperatures and little precipitation?",
+      "options": ["Desert", "Tundra", "Rainforest", "Grassland"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which process describes the breakdown of rocks into smaller pieces?",
+      "options": ["Erosion", "Weathering", "Sedimentation", "Fusion"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the most biodiverse terrestrial biome on Earth?",
+      "options": ["Desert", "Rainforest", "Tundra", "Grassland"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which animal is known as the 'King of the Jungle'?",
+      "options": ["Elephant", "Lion", "Tiger", "Gorilla"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which marine creature has eight arms?",
+      "options": ["Shark", "Octopus", "Dolphin", "Seahorse"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the largest mammal on Earth?",
+      "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which bird is often associated with wisdom?",
+      "options": ["Eagle", "Owl", "Parrot", "Sparrow"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What do you call a group of lions?",
+      "options": ["Pack", "Pride", "Herd", "Flock"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which natural phenomenon is measured on the Richter scale?",
+      "options": ["Hurricane", "Earthquake", "Tornado", "Flood"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which element is most abundant in the Earth's crust?",
+      "options": ["Oxygen", "Silicon", "Aluminum", "Iron"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the primary cause of seasons on Earth?",
+      "options": ["Earth's distance from the Sun", "Earth's tilt", "Solar flares", "Lunar phases"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which process involves water changing from liquid to vapor?",
+      "options": ["Condensation", "Precipitation", "Evaporation", "Sublimation"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "What is the term for animals active during the night?",
+      "options": ["Diurnal", "Nocturnal", "Crepuscular", "Cathemeral"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which large mammal is native to Africa and known for its long neck?",
+      "options": ["Elephant", "Giraffe", "Rhinoceros", "Buffalo"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What type of animal is a Komodo dragon?",
+      "options": ["Lizard", "Snake", "Crocodile", "Turtle"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which insect is known for its ability to produce honey?",
+      "options": ["Butterfly", "Ant", "Bee", "Beetle"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which body of water covers the majority of the Earth's surface?",
+      "options": ["Lakes", "Oceans", "Rivers", "Ponds"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the largest desert in the world?",
+      "options": ["Sahara", "Gobi", "Antarctic Desert", "Arabian Desert"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which natural resource is often referred to as 'black gold'?",
+      "options": ["Coal", "Oil", "Natural Gas", "Uranium"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the name of the process by which water vapor forms clouds?",
+      "options": ["Condensation", "Precipitation", "Transpiration", "Sublimation"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which tree is known for its distinctive smell and use in essential oils?",
+      "options": ["Pine", "Eucalyptus", "Oak", "Maple"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which phenomenon causes the Northern Lights?",
+      "options": ["Solar winds", "Lunar eclipse", "Meteor shower", "Earth's rotation"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the main ingredient in soil?",
+      "options": ["Water", "Organic matter", "Minerals", "Air"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which bird migrates the longest distance each year?",
+      "options": ["Arctic Tern", "Sparrow", "Eagle", "Swallow"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which marine animal is known for its distinctive shell and slow movement?",
+      "options": ["Lobster", "Crab", "Sea Turtle", "Squid"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "What do you call a scientist who studies weather?",
+      "options": ["Biologist", "Meteorologist", "Geologist", "Astronomer"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which fruit is known as the 'king of fruits' in many parts of Asia?",
+      "options": ["Apple", "Mango", "Durian", "Banana"],
+      "correctOptionIndex": 2
+    }
+  ],
+  "Science": [
+    {
+      "questionText": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "NaCl", "O2"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the speed of light in vacuum?",
+      "options": ["300,000 km/s", "150,000 km/s", "1,000 km/s", "3,000 km/s"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Who developed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What gas do humans breathe in primarily?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the nearest star to Earth?",
+      "options": ["Proxima Centauri", "Sirius", "Alpha Centauri", "The Sun"],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Quartz"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "What phenomenon causes a rainbow?",
+      "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": "What is the boiling point of water at sea level in Celsius?",
+      "options": ["100°C", "90°C", "120°C", "80°C"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which scientist is known for the discovery of penicillin?",
+      "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Gregor Mendel"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the main gas found in the Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "What force keeps planets in orbit around the sun?",
+      "options": ["Magnetism", "Gravity", "Friction", "Inertia"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Gd", "Go"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What part of the atom contains protons and neutrons?",
+      "options": ["Electron cloud", "Nucleus", "Orbitals", "Quarks"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the most abundant element in the universe?",
+      "options": ["Oxygen", "Hydrogen", "Carbon", "Helium"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which law states that energy cannot be created or destroyed?",
+      "options": ["Law of Gravity", "First Law of Thermodynamics", "Newton's Third Law", "Law of Conservation of Mass"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What type of bond involves the sharing of electrons between atoms?",
+      "options": ["Ionic", "Covalent", "Metallic", "Hydrogen"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the center of an atom called?",
+      "options": ["Nucleus", "Electron", "Proton", "Neutron"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the main component of the sun?",
+      "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which planet has the most moons?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": "What is the study of heredity and variation in living organisms?",
+      "options": ["Ecology", "Genetics", "Anatomy", "Physiology"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What instrument is used to measure atmospheric pressure?",
+      "options": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which branch of science deals with celestial objects?",
+      "options": ["Biology", "Chemistry", "Astronomy", "Geology"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "What is the primary cause of tides on Earth?",
+      "options": ["Wind", "Earth's rotation", "Moon's gravitational pull", "Ocean currents"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which element has the atomic number 6?",
+      "options": ["Carbon", "Oxygen", "Nitrogen", "Helium"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the term for a solution that resists changes in pH?",
+      "options": ["Acid", "Base", "Buffer", "Solvent"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "What device is used to view very small objects?",
+      "options": ["Microscope", "Telescope", "Binoculars", "Magnifying glass"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the freezing point of water in Celsius?",
+      "options": ["0°C", "32°C", "100°C", "-10°C"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Who is known as the father of modern physics?",
+      "options": ["Galileo Galilei", "Albert Einstein", "Isaac Newton", "Niels Bohr"],
+      "correctOptionIndex": 2
+    }
+  ],
+  "Coding": [
+    {
+      "questionText": "What does 'HTML' stand for?",
+      "options": ["HyperText Markup Language", "Home Tool Markup Language", "Hyperlinks Text Markup Language", "Hyperlinking and Text Markup Language"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which programming language is known for its use in iOS app development?",
+      "options": ["Java", "Swift", "Python", "C#"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What does 'CSS' stand for in web development?",
+      "options": ["Cascading Style Sheets", "Creative Style System", "Computer Style Sheets", "Cascading System Sheets"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which language is primarily used for statistical computing and graphics?",
+      "options": ["R", "Ruby", "JavaScript", "PHP"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the name of the version control system widely used in software development?",
+      "options": ["Git", "SVN", "Mercurial", "CVS"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which programming language is known for its simplicity and readability?",
+      "options": ["C++", "Java", "Python", "Assembly"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "In object-oriented programming, what is the concept of wrapping data and methods into a single unit called?",
+      "options": ["Abstraction", "Encapsulation", "Inheritance", "Polymorphism"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which language is primarily used for Android app development?",
+      "options": ["Kotlin", "Swift", "Ruby", "Objective-C"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What does 'SQL' stand for?",
+      "options": ["Structured Query Language", "Simple Query Language", "Sequential Query Language", "Standard Query Language"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the name of the popular JavaScript library for building user interfaces?",
+      "options": ["Angular", "Vue", "React", "Ember"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which language is known as the language of the web?",
+      "options": ["Java", "Python", "JavaScript", "C++"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "What is the output of: print(2 ** 3) in Python?",
+      "options": ["6", "8", "9", "5"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What does 'API' stand for?",
+      "options": ["Application Programming Interface", "Advanced Programming Interface", "Application Protocol Interface", "Applied Program Integration"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which programming paradigm emphasizes the use of functions and avoids changing-state and mutable data?",
+      "options": ["Imperative", "Object-Oriented", "Functional", "Procedural"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "What is the term for a mistake or error in a program?",
+      "options": ["Bug", "Feature", "Syntax", "Exception"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which protocol is commonly used for secure communication over the internet?",
+      "options": ["HTTP", "FTP", "SMTP", "HTTPS"],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": "Which programming language was developed by Sun Microsystems and is widely used in enterprise applications?",
+      "options": ["C#", "Java", "Python", "Go"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What does 'OOP' stand for in programming?",
+      "options": ["Object-Oriented Programming", "Order of Operations", "Open Object Protocol", "Operating Object Process"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the term for a reusable piece of code that performs a specific task?",
+      "options": ["Function", "Variable", "Class", "Module"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which language is primarily used for data analysis and machine learning?",
+      "options": ["C", "Java", "Python", "Perl"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "What does the acronym 'JSON' stand for?",
+      "options": ["JavaScript Object Notation", "JavaScript Oriented Notation", "Java Syntax Object Notation", "Java Standard Object Notation"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "In CSS, which property is used to change the text color of an element?",
+      "options": ["font-color", "text-color", "color", "background-color"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which company developed the C# programming language?",
+      "options": ["Apple", "Google", "Microsoft", "Oracle"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "What is the correct file extension for a Dart file?",
+      "options": [".dart", ".drt", ".d", ".dartlang"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which database system uses tables, rows, and columns to store data?",
+      "options": ["NoSQL", "Relational Database", "Graph Database", "Object Database"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the main purpose of a 'for loop' in programming?",
+      "options": ["To execute a block of code repeatedly", "To define a function", "To create a variable", "To end a program"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which HTML tag is used to display a picture on a webpage?",
+      "options": ["<img>", "<picture>", "<src>", "<image>"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is a common method for handling errors in programming?",
+      "options": ["Debugging", "Compiling", "Exception handling", "Looping"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which term describes the act of optimizing code for better performance?",
+      "options": ["Refactoring", "Compiling", "Minifying", "Debugging"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which tool is commonly used for containerization in development environments?",
+      "options": ["Kubernetes", "Docker", "Ansible", "Vagrant"],
+      "correctOptionIndex": 1
+    }
+  ],
+  "Geography": [
+    {
+      "questionText": "What is the largest continent by land area?",
+      "options": ["Africa", "Asia", "North America", "Europe"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which country has the largest population in the world?",
+      "options": ["USA", "India", "China", "Russia"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the longest river in the world?",
+      "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which desert is the largest in the world?",
+      "options": ["Sahara", "Gobi", "Kalahari", "Antarctic Desert"],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": "What is the capital city of France?",
+      "options": ["Paris", "Lyon", "Marseille", "Nice"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which mountain is the highest in the world?",
+      "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "Japan", "South Korea", "Thailand"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the smallest country in the world by area?",
+      "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which ocean is the largest?",
+      "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which European country is divided into cantons?",
+      "options": ["Germany", "Switzerland", "Belgium", "Austria"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which country has the most time zones?",
+      "options": ["Russia", "USA", "France", "China"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "What is the name of the strait between Europe and Asia?",
+      "options": ["Bosporus", "Bering", "Magellan", "Strait of Gibraltar"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which river flows through London?",
+      "options": ["Thames", "Seine", "Danube", "Rhine"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the highest waterfall in the world?",
+      "options": ["Angel Falls", "Niagara Falls", "Victoria Falls", "Iguazu Falls"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which country is home to the Great Barrier Reef?",
+      "options": ["USA", "Australia", "Brazil", "South Africa"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which mountain range separates Europe from Asia?",
+      "options": ["Andes", "Ural", "Rocky Mountains", "Himalayas"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the capital city of Canada?",
+      "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which country is known for its fjords?",
+      "options": ["Sweden", "Norway", "Finland", "Denmark"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which continent is known as the Dark Continent?",
+      "options": ["Asia", "Africa", "Europe", "Australia"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which desert is located in northern China and southern Mongolia?",
+      "options": ["Sahara", "Gobi", "Kalahari", "Thar"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the largest lake in Africa?",
+      "options": ["Lake Victoria", "Lake Tanganyika", "Lake Malawi", "Lake Chad"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which country is both in Europe and Asia?",
+      "options": ["Turkey", "Spain", "Italy", "Poland"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which sea is the saltiest?",
+      "options": ["Mediterranean Sea", "Red Sea", "Dead Sea", "Caspian Sea"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which country has the longest coastline in the world?",
+      "options": ["Canada", "Russia", "Australia", "USA"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the capital city of Brazil?",
+      "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which European country is known for its tulips and windmills?",
+      "options": ["Belgium", "Netherlands", "France", "Germany"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which mountain is known as the 'Savage Mountain'?",
+      "options": ["K2", "Mount Everest", "Makalu", "Annapurna"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which river is the longest in Europe?",
+      "options": ["Danube", "Volga", "Rhine", "Elbe"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the largest country in South America by area?",
+      "options": ["Argentina", "Brazil", "Peru", "Colombia"],
+      "correctOptionIndex": 1
+    }
+  ],
+  "General": [
+    {
+      "questionText": "What is the capital of the United Kingdom?",
+      "options": ["London", "Manchester", "Edinburgh", "Birmingham"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which element does 'O' represent on the periodic table?",
+      "options": ["Osmium", "Oxygen", "Gold", "Zinc"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Who painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which language is most widely spoken in the world?",
+      "options": ["English", "Mandarin Chinese", "Spanish", "Hindi"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "In which year did the Titanic sink?",
+      "options": ["1910", "1912", "1914", "1920"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the chemical formula for table salt?",
+      "options": ["NaCl", "KCl", "CaCl2", "Na2CO3"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "Japan", "South Korea", "Thailand"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the currency of the United States?",
+      "options": ["Dollar", "Euro", "Pound", "Yen"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Who discovered America?",
+      "options": ["Christopher Columbus", "Vasco da Gama", "Ferdinand Magellan", "James Cook"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the tallest building in the world?",
+      "options": ["Burj Khalifa", "Shanghai Tower", "One World Trade Center", "Eiffel Tower"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which country hosted the 2016 Summer Olympics?",
+      "options": ["China", "Brazil", "UK", "Russia"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Platinum"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Who is known as the Father of Computers?",
+      "options": ["Alan Turing", "Charles Babbage", "Bill Gates", "Steve Jobs"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which planet is known for its rings?",
+      "options": ["Mars", "Earth", "Saturn", "Venus"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "What is the largest ocean on Earth?",
+      "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Who wrote '1984'?",
+      "options": ["George Orwell", "Aldous Huxley", "J.K. Rowling", "Ernest Hemingway"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the square root of 64?",
+      "options": ["6", "7", "8", "9"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which country is famous for its pyramids?",
+      "options": ["Mexico", "India", "Egypt", "Peru"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "What is the main ingredient in guacamole?",
+      "options": ["Tomato", "Avocado", "Onion", "Pepper"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Who is the current Secretary-General of the United Nations?",
+      "options": ["Ban Ki-moon", "Kofi Annan", "António Guterres", "Boutros Boutros-Ghali"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which sport is known as the 'king of sports'?",
+      "options": ["Basketball", "Cricket", "Soccer", "Baseball"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "What is the most populous city in the world?",
+      "options": ["Tokyo", "Delhi", "Shanghai", "Mexico City"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which device is used to measure time?",
+      "options": ["Thermometer", "Barometer", "Clock", "Speedometer"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Who is known as the Queen of Pop?",
+      "options": ["Madonna", "Beyoncé", "Lady Gaga", "Rihanna"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the largest mammal in the world?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which country is the origin of the martial art Taekwondo?",
+      "options": ["Japan", "China", "South Korea", "Thailand"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "What is the boiling point of water in Celsius?",
+      "options": ["90°C", "95°C", "100°C", "105°C"],
+      "correctOptionIndex": 2
+    }
+  ],
+  "Film": [
+    {
+      "questionText": "Who directed the movie 'Jurassic Park'?",
+      "options": ["Steven Spielberg", "James Cameron", "George Lucas", "Martin Scorsese"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which film features the character Jack Sparrow?",
+      "options": ["Pirates of the Caribbean", "Treasure Island", "The Black Pearl", "Master and Commander"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which movie won the Academy Award for Best Picture in 1994?",
+      "options": ["Forrest Gump", "Pulp Fiction", "The Shawshank Redemption", "Four Weddings and a Funeral"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Who played the character of Iron Man in the Marvel Cinematic Universe?",
+      "options": ["Chris Evans", "Robert Downey Jr.", "Mark Ruffalo", "Chris Hemsworth"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which film is known for the quote, 'Here's looking at you, kid'?",
+      "options": ["Casablanca", "Gone with the Wind", "Citizen Kane", "The Godfather"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Who directed 'Inception'?",
+      "options": ["Christopher Nolan", "Quentin Tarantino", "Ridley Scott", "Stanley Kubrick"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which film features a character named Dorothy who travels to Oz?",
+      "options": ["The Wizard of Oz", "Alice in Wonderland", "Charlie and the Chocolate Factory", "Willy Wonka & the Chocolate Factory"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the highest-grossing film of all time (not adjusted for inflation)?",
+      "options": ["Titanic", "Avatar", "Avengers: Endgame", "Star Wars: The Force Awakens"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which actor is known for his role as the Terminator?",
+      "options": ["Arnold Schwarzenegger", "Sylvester Stallone", "Bruce Willis", "Jean-Claude Van Damme"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which film is based on the novel 'The Lord of the Rings'?",
+      "options": ["The Hobbit", "Harry Potter", "The Chronicles of Narnia", "The Lord of the Rings"],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": "Who played the female lead in 'Titanic'?",
+      "options": ["Kate Winslet", "Leonor Varela", "Catherine Zeta-Jones", "Nicole Kidman"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which movie features the song 'My Heart Will Go On'?",
+      "options": ["Titanic", "The Bodyguard", "Ghost", "Pretty Woman"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Who directed 'Pulp Fiction'?",
+      "options": ["Quentin Tarantino", "Guy Ritchie", "Martin Scorsese", "David Fincher"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which film is about a dystopian future where society is divided into factions based on virtues?",
+      "options": ["Divergent", "The Hunger Games", "The Maze Runner", "The Giver"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What film features a character called Neo?",
+      "options": ["The Matrix", "Equilibrium", "Minority Report", "Blade Runner"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which actor starred in 'Forrest Gump'?",
+      "options": ["Tom Hanks", "Brad Pitt", "Leonardo DiCaprio", "Johnny Depp"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which film is set in a post-apocalyptic wasteland and features a character called Mad Max?",
+      "options": ["Mad Max: Fury Road", "The Road", "Children of Men", "The Book of Eli"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Who directed the film 'Schindler's List'?",
+      "options": ["Steven Spielberg", "Ridley Scott", "James Cameron", "Clint Eastwood"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which film is known for the quote, 'May the Force be with you'?",
+      "options": ["Star Wars", "Star Trek", "Battlestar Galactica", "Guardians of the Galaxy"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which animated film features a princess named Elsa?",
+      "options": ["Tangled", "Frozen", "Brave", "Moana"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Who starred as the Joker in 'The Dark Knight'?",
+      "options": ["Heath Ledger", "Joaquin Phoenix", "Jared Leto", "Jack Nicholson"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which film is about the life of boxer Muhammad Ali?",
+      "options": ["Raging Bull", "Ali", "The Fighter", "Cinderella Man"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the name of the fictional African nation in 'Black Panther'?",
+      "options": ["Wakanda", "Zamunda", "Genovia", "Borduria"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which film features a time-traveling DeLorean?",
+      "options": ["Back to the Future", "Bill & Ted's Excellent Adventure", "Time Bandits", "Looper"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which actress played Hermione Granger in the 'Harry Potter' series?",
+      "options": ["Emma Watson", "Maggie Smith", "Bonnie Wright", "Evanna Lynch"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which film is known for its groundbreaking visual effects involving a ship in a storm?",
+      "options": ["Titanic", "The Perfect Storm", "Poseidon", "Life of Pi"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Who directed 'The Godfather'?",
+      "options": ["Martin Scorsese", "Francis Ford Coppola", "Brian De Palma", "Sidney Lumet"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which movie features a character named Andy Dufresne?",
+      "options": ["The Shawshank Redemption", "The Green Mile", "American Beauty", "Se7en"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which film is based on a true story about a group of miners trapped underground?",
+      "options": ["The 33", "Everest", "The Abyss", "Deepwater Horizon"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which animated film features a clownfish searching for his son?",
+      "options": ["Finding Nemo", "The Little Mermaid", "Shark Tale", "Finding Dory"],
+      "correctOptionIndex": 0
+    }
+  ],
+  "Arts": [
+    {
+      "questionText": "Who painted the ceiling of the Sistine Chapel?",
+      "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What art movement is Pablo Picasso associated with?",
+      "options": ["Impressionism", "Cubism", "Surrealism", "Realism"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which artist is known for his melting clocks painting?",
+      "options": ["Salvador Dalí", "Vincent van Gogh", "Claude Monet", "Edvard Munch"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the art technique of using small dots of color called?",
+      "options": ["Pointillism", "Fresco", "Mosaic", "Impasto"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which art movement focused on capturing light and movement, and is associated with Monet?",
+      "options": ["Baroque", "Renaissance", "Impressionism", "Cubism"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Who painted 'Starry Night'?",
+      "options": ["Pablo Picasso", "Vincent van Gogh", "Paul Cézanne", "Georges Seurat"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which sculptor created 'David'?",
+      "options": ["Michelangelo", "Auguste Rodin", "Donatello", "Gian Lorenzo Bernini"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What type of art is a mural?",
+      "options": ["Sculpture", "Painting", "Installation", "Digital art"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which art medium uses clay to create objects?",
+      "options": ["Oil painting", "Ceramics", "Watercolor", "Etching"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the art of paper folding known as?",
+      "options": ["Kirigami", "Origami", "Papercraft", "Scrapbooking"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which famous artist cut off his own ear?",
+      "options": ["Pablo Picasso", "Vincent van Gogh", "Salvador Dalí", "Andy Warhol"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What style of art is Jackson Pollock known for?",
+      "options": ["Realism", "Abstract Expressionism", "Pop Art", "Surrealism"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which period is known for its focus on classical antiquity and humanism?",
+      "options": ["Renaissance", "Baroque", "Romanticism", "Modernism"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is a common tool used by painters to mix colors?",
+      "options": ["Palette", "Easel", "Brush", "Canvas"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Who painted the 'Mona Lisa'?",
+      "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Titian"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which art technique involves layering paint thickly so that texture is visible?",
+      "options": ["Glazing", "Impasto", "Sfumato", "Chiaroscuro"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What is the term for a painting done rapidly and in a single session?",
+      "options": ["Study", "En plein air", "Mural", "Fresco"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which famous modern artist is known for the Campbell's Soup Cans series?",
+      "options": ["Andy Warhol", "Roy Lichtenstein", "Keith Haring", "Jean-Michel Basquiat"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the art of designing and constructing buildings called?",
+      "options": ["Sculpture", "Architecture", "Muralism", "Landscape painting"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which artist is known for the painting 'The Persistence of Memory'?",
+      "options": ["Salvador Dalí", "René Magritte", "Max Ernst", "Frida Kahlo"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which country is famous for its traditional art of calligraphy?",
+      "options": ["Japan", "Brazil", "Italy", "Canada"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the term for art created in the 20th century that often breaks with tradition?",
+      "options": ["Modern Art", "Renaissance Art", "Baroque Art", "Classical Art"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which technique uses tiny pieces of colored glass to create images?",
+      "options": ["Mosaic", "Stained glass", "Fresco", "Pointillism"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the primary material used in sculpture?",
+      "options": ["Paper", "Clay", "Watercolor", "Ink"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which art form involves creating images with sand?",
+      "options": ["Sandpainting", "Collage", "Graffiti", "Muralism"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the process of preparing a wall for painting called?",
+      "options": ["Priming", "Glazing", "Varnishing", "Tinting"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which painter is famous for his water lily series?",
+      "options": ["Claude Monet", "Pierre-Auguste Renoir", "Edgar Degas", "Camille Pissarro"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What does the term 'medium' refer to in art?",
+      "options": ["The size of the artwork", "The material used to create the artwork", "The style of the artwork", "The value of the artwork"],
+      "correctOptionIndex": 1
+    }
+  ],
+  "Entertainment": [
+    {
+      "questionText": "Which singer is known as the 'Queen of Pop'?",
+      "options": ["Madonna", "Beyoncé", "Lady Gaga", "Rihanna"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which TV show features the characters Sheldon Cooper and Leonard Hofstadter?",
+      "options": ["The Big Bang Theory", "Friends", "How I Met Your Mother", "Modern Family"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which artist released the album 'Thriller'?",
+      "options": ["Prince", "Michael Jackson", "Elvis Presley", "Whitney Houston"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which streaming service is known for producing the series 'Stranger Things'?",
+      "options": ["Netflix", "Hulu", "Amazon Prime", "Disney+"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Who is known for the song 'Rolling in the Deep'?",
+      "options": ["Adele", "Beyoncé", "Taylor Swift", "Katy Perry"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which award show is known as the Oscars?",
+      "options": ["Golden Globes", "Academy Awards", "Emmy Awards", "Grammy Awards"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which comedian starred in the film 'Ace Ventura: Pet Detective'?",
+      "options": ["Jim Carrey", "Adam Sandler", "Will Ferrell", "Ben Stiller"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which musical features the song 'Defying Gravity'?",
+      "options": ["Les Misérables", "The Phantom of the Opera", "Wicked", "Rent"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Who is the host of 'The Tonight Show' (as of 2021)?",
+      "options": ["Jimmy Fallon", "Stephen Colbert", "James Corden", "Seth Meyers"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which actor starred in the TV series 'Breaking Bad'?",
+      "options": ["Bryan Cranston", "Aaron Paul", "Dean Norris", "Bob Odenkirk"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which pop star is known for her hit song 'Bad Guy'?",
+      "options": ["Billie Eilish", "Dua Lipa", "Lorde", "Ariana Grande"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which animated film features a character named Elsa?",
+      "options": ["Frozen", "Tangled", "Moana", "Brave"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which TV series is a reality show about a group of celebrities living together?",
+      "options": ["The Real World", "Big Brother", "Celebrity Big Brother", "Survivor"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which singer is known for her role in the film 'Dreamgirls'?",
+      "options": ["Beyoncé", "Jennifer Hudson", "Ciara", "Rihanna"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which comedy film stars Will Ferrell as a sports journalist?",
+      "options": ["Anchorman", "Step Brothers", "Talladega Nights", "Old School"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which actor portrayed the character Iron Man in the Marvel movies?",
+      "options": ["Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo", "Chris Evans"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which television series features a group of strangers stranded on an island?",
+      "options": ["Lost", "Survivor", "The Island", "Gilligan's Island"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Who won the first season of 'American Idol'?",
+      "options": ["Kelly Clarkson", "Carrie Underwood", "Jennifer Hudson", "Scotty McCreery"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which music festival is held annually in Indio, California?",
+      "options": ["Coachella", "Lollapalooza", "Glastonbury", "Bonnaroo"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which actor starred in 'The Fresh Prince of Bel-Air'?",
+      "options": ["Will Smith", "Martin Lawrence", "Tatyana Ali", "Alfonso Ribeiro"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which band is known for the hit song 'Bohemian Rhapsody'?",
+      "options": ["The Beatles", "Queen", "Led Zeppelin", "Pink Floyd"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which reality TV show features fashion design challenges?",
+      "options": ["Project Runway", "America's Next Top Model", "The Voice", "So You Think You Can Dance"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which animated series features a talking sponge?",
+      "options": ["SpongeBob SquarePants", "The Fairly OddParents", "Adventure Time", "Regular Show"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which singer is known for the album 'Lemonade'?",
+      "options": ["Beyoncé", "Rihanna", "Adele", "Nicki Minaj"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which film franchise features a character named James Bond?",
+      "options": ["Mission Impossible", "James Bond", "The Man from U.N.C.L.E.", "Jason Bourne"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which TV show is centered around a high school glee club?",
+      "options": ["Glee", "High School Musical", "Fame", "American Idol"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which actress starred as Rachel Green in 'Friends'?",
+      "options": ["Jennifer Aniston", "Courteney Cox", "Lisa Kudrow", "Monica Geller"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which film features a virtual reality world called 'The Matrix'?",
+      "options": ["The Matrix", "Inception", "Avatar", "Tron"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which singer is known for her hit song 'Halo'?",
+      "options": ["Beyoncé", "Adele", "Rihanna", "Lady Gaga"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which TV talk show is hosted by Oprah Winfrey?",
+      "options": ["The Oprah Winfrey Show", "The Ellen DeGeneres Show", "The Tonight Show", "The View"],
+      "correctOptionIndex": 0
+    }
+  ],
+  "History": [
+    {
+      "questionText": "Who was the first President of the United States?",
+      "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "In which year did World War II end?",
+      "options": ["1942", "1945", "1948", "1950"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Who was the famous civil rights leader who delivered the 'I Have a Dream' speech?",
+      "options": ["Malcolm X", "Martin Luther King Jr.", "Rosa Parks", "Frederick Douglass"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What ancient civilization built the pyramids?",
+      "options": ["Romans", "Greeks", "Egyptians", "Mayans"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Who was the first man to step on the Moon?",
+      "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Michael Collins"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Which empire was ruled by Julius Caesar?",
+      "options": ["Greek Empire", "Roman Empire", "Ottoman Empire", "Persian Empire"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What wall was famously torn down in 1989?",
+      "options": ["The Berlin Wall", "The Great Wall of China", "Hadrian's Wall", "The Iron Curtain"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Who was the British Prime Minister during most of World War II?",
+      "options": ["Winston Churchill", "Margaret Thatcher", "Tony Blair", "David Cameron"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What was the name of the ship on which the Pilgrims traveled to North America in 1620?",
+      "options": ["Santa Maria", "Mayflower", "Titanic", "Endeavour"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which ancient wonder was located in Babylon?",
+      "options": ["Hanging Gardens", "Colossus of Rhodes", "Mausoleum at Halicarnassus", "Statue of Zeus"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Who wrote the 'Communist Manifesto'?",
+      "options": ["Karl Marx", "Friedrich Engels", "Vladimir Lenin", "Joseph Stalin"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which event is known as the start of the French Revolution?",
+      "options": ["Storming of the Bastille", "Reign of Terror", "Napoleon's Rise", "Declaration of the Rights of Man"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which ancient civilization is known for its mythology involving Zeus and Hera?",
+      "options": ["Egyptian", "Roman", "Greek", "Norse"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Who was the first female Prime Minister of the United Kingdom?",
+      "options": ["Theresa May", "Margaret Thatcher", "Angela Merkel", "Indira Gandhi"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What was the name of the trade route connecting the East and West, famous in ancient times?",
+      "options": ["Silk Road", "Spice Route", "Amber Road", "Gold Road"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which war was fought between the North and South regions in the United States?",
+      "options": ["World War I", "American Civil War", "Revolutionary War", "Vietnam War"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Who discovered the Americas in 1492?",
+      "options": ["Christopher Columbus", "Ferdinand Magellan", "Leif Erikson", "Amerigo Vespucci"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which dynasty ruled China for nearly 300 years, ending in 1912?",
+      "options": ["Ming Dynasty", "Qing Dynasty", "Han Dynasty", "Tang Dynasty"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What was the primary cause of the fall of the Roman Empire?",
+      "options": ["Invasion by Barbarian tribes", "Economic decline", "Political corruption", "All of the above"],
+      "correctOptionIndex": 3
+    },
+    {
+      "questionText": "Who was the Egyptian queen famous for her beauty and her relationships with Roman leaders?",
+      "options": ["Cleopatra", "Nefertiti", "Hatshepsut", "Sobekneferu"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which war was fought between 1914 and 1918?",
+      "options": ["World War I", "World War II", "The Korean War", "The Vietnam War"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Who was the leader of the Soviet Union during World War II?",
+      "options": ["Vladimir Lenin", "Joseph Stalin", "Nikita Khrushchev", "Leonid Brezhnev"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What was the name of the first artificial Earth satellite launched by the Soviet Union?",
+      "options": ["Apollo 11", "Sputnik 1", "Explorer 1", "Vostok 1"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which battle is considered a turning point in the American Revolutionary War?",
+      "options": ["Battle of Bunker Hill", "Battle of Yorktown", "Battle of Saratoga", "Battle of Lexington and Concord"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "Who was the author of 'The Diary of a Young Girl'?",
+      "options": ["Anne Frank", "Maya Angelou", "Malala Yousafzai", "Helen Keller"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Which civilization built Machu Picchu?",
+      "options": ["Aztec", "Mayan", "Incan", "Olmec"],
+      "correctOptionIndex": 2
+    },
+    {
+      "questionText": "What was the name of the ship that famously sank in 1912?",
+      "options": ["Lusitania", "Titanic", "Britannic", "Olympic"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Who was the famous conqueror known as 'The Great'?",
+      "options": ["Julius Caesar", "Alexander the Great", "Genghis Khan", "Napoleon Bonaparte"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Which country was formerly known as Persia?",
+      "options": ["Iraq", "Iran", "Syria", "Turkey"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "What was the Cold War primarily a conflict between?",
+      "options": ["USA and China", "USA and Soviet Union", "USA and Germany", "USA and Japan"],
+      "correctOptionIndex": 1
+    }
+  ]
+}
